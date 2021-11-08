@@ -18,5 +18,5 @@ def search():
             'match_all':{}
         }
     }
-    res = es.search(index='products',doc_type='',body=body)
+    res = es.search(index='anime_index',doc_type='',body=body)
     return render_template('search.html',result=res)
