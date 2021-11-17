@@ -1,4 +1,9 @@
-# Project2_6288073_6288092_6288160
+# Project2 Prototype IR system
+## Member
+Kittitad Jiraprasitchai 6288073
+Chancheep Mahacharoensuk 6288092
+Kantapong Matangkarat 6288160
+
 The component that you need to use
 1. Elasticsearch
 2. Kibana
