@@ -12,6 +12,10 @@ The component that you need to use<br>
 
 <br>
 How to run the program<br>
+install these 2 first on the terminal
+pip install elasticsearch
+pip install ndjson
+
 1. First you need to run elasticsearch.bat in the bin folder of elasticsearch. (http://127.0.0.1:9200/)<br>
 2. After that you need to run kibana.bat in the other Cmd. (http://127.0.0.1:5601/app/home#/) <br>
 3. After run this 2 program you will go to the kibana (http://127.0.0.1:5601/app/home#/) and import the anime-bulk.json (it on the json folder)<br>
