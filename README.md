@@ -20,7 +20,7 @@ How to run the program<br>
 PS: If you encounter with the error you must install the environment by type this command.<br>
     1. 'pip install Flask'<br>
     2. 'set FLASK_APP=search_app.py'<br>
-    3. 'set FLASK_APP=development'<br>
+    3. 'set FLASK_ENV=development'<br>
     4. 'flask run'<br>
 6. After running the flask it will show the link http://127.0.0.1:5000/<br>
 7. Enjoy!!!!<br>
